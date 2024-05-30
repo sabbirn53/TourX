@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tourX/static/css/main.944e464c.css",
+    "main.js": "/tourX/static/js/main.d2b6929b.js",
+    "static/media/oceane.mp4": "/tourX/static/media/oceane.b3d6b2ecd90421d09c72.mp4",
+    "static/media/video2.mp4": "/tourX/static/media/video2.1857de2e6793f0412dc8.mp4",
+    "static/media/img(1).jpg": "/tourX/static/media/img(1).6ea904fc9e1ffda69f08.jpg",
+    "static/media/img(6).jpg": "/tourX/static/media/img(6).3a3e00680ec90fa0a7be.jpg",
+    "static/media/img(7).jpg": "/tourX/static/media/img(7).b9678ca7900c3978cb1e.jpg",
+    "static/media/img(8).jpg": "/tourX/static/media/img(8).66b9222bacaf4f1007c0.jpg",
+    "static/media/img(4).jpg": "/tourX/static/media/img(4).eee3fbe5de21852c5cba.jpg",
+    "static/media/img(3).jpg": "/tourX/static/media/img(3).202d060e4cf874f968a7.jpg",
+    "static/media/img(5).jpg": "/tourX/static/media/img(5).0ab9802a69bd0d58adee.jpg",
+    "static/media/img(2).jpg": "/tourX/static/media/img(2).b94b63faa3d661b46634.jpg",
+    "index.html": "/tourX/index.html",
+    "main.944e464c.css.map": "/tourX/static/css/main.944e464c.css.map",
+    "main.d2b6929b.js.map": "/tourX/static/js/main.d2b6929b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944e464c.css",
+    "static/js/main.d2b6929b.js"
+  ]
+}
